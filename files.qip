@@ -9,3 +9,4 @@ set_global_assignment -name VHDL_FILE CEGen.vhd
 set_global_assignment -name VHDL_FILE snd_mix.vhd
 set_global_assignment -name SYSTEMVERILOG_FILE cofi.sv
 set_global_assignment -name SYSTEMVERILOG_FILE MegaCD.sv
+set_global_assignment -name VERILOG_FILE joydb15.v
